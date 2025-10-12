@@ -18,7 +18,7 @@ function TextArea() {
   }
 
   const content = {
-    backgroundColor: "#e0d608",
+    backgroundColor: "#c76719ff",
     margin: "100px",
     padding: "50px",
     textAlign: "center",
